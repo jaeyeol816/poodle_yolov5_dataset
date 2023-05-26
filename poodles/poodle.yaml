@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/temp_sample_yolo_dataset/poodles/train/
+val: /content/temp_sample_yolo_dataset/poodles/valid/
+test: /content/temp_sample_yolo_dataset/poodles/test/
 
 nc: 1
 names: ['poodle']
